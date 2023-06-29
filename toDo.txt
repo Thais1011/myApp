@@ -1,0 +1,8 @@
+Componente:
+criar botao (generate meal/botão)-> propriedades -> titulo, clique
+Em cima:Hungry? Say no more...
+
+
+no footer: css, 2 botões (2 componentes)
+
+
